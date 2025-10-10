@@ -1,0 +1,8 @@
+com\example\freelancermarketplace\AuthController.class
+com\example\freelancermarketplace\User.class
+com\example\freelancermarketplace\LoginRequest.class
+com\example\freelancermarketplace\UserRepository.class
+com\example\freelancermarketplace\SecurityConfig.class
+com\example\freelancermarketplace\UserDetailsServiceImpl.class
+com\example\freelancermarketplace\FreelancerMarketplaceApplication.class
+com\example\freelancermarketplace\SignUpRequest.class
